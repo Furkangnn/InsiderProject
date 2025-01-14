@@ -19,6 +19,5 @@ Bu proje, uzak bir API'den ürün verilerini dinamik olarak alarak bir ürün ca
 - Sunucu tarafı kurulumuna gerek yoktur.
 
 ### Kurulum
-1. Reponunuzu klonlayın:
    ```bash
    git clone https://github.com/Furkangnn/InsiderProjec.git
